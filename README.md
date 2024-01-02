@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nbtlk
-- 👀 I’m interested in ...writing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...a ton of things- writing, sports, finance, and the cosmos just to name a few
+- 🌱 I’m currently learning ...coding
+- 💞️ I’m looking to collaborate on ...software development
+- 📫 How to reach me ... @brihum9 on skype
 
 <!---
 nbtlk/nbtlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
