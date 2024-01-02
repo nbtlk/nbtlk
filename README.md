@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbtlk
-- 👀 I’m interested in ...a ton of things- writing, sports, finance, and the cosmos just to name a few
+- 👀 I’m interested in ...a ton of things- writing, sports, finance, tech, and the cosmos just to name a few
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...software development
 - 📫 How to reach me ... @brihum9 on skype
